@@ -9,7 +9,7 @@ const USE_N8N_BACKEND = true;
 
 const N8N_CONFIG = {
   // Only using Production URL for Collect User Data as requested
-  SUBMIT_WEBHOOK: 'https://saghana123.app.n8n.cloud/webhook/collect-user-data',
+  SUBMIT_WEBHOOK: 'https://varsh17.app.n8n.cloud/webhook/collect-user-data',
   
   // Verify webhook is no longer needed/available
   VERIFY_WEBHOOK: '' 
