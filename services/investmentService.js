@@ -1,5 +1,5 @@
 const WEBHOOK_URL =
-  "https://varsh17.app.n8n.cloud/webhook/collect-user-data";
+  "https://shethu28.app.n8n.cloud/webhook/collect-user-data";
 
 export async function getInvestmentRecommendation(userData) {
   const response = await fetch(WEBHOOK_URL, {
